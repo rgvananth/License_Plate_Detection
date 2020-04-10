@@ -27,6 +27,6 @@ To build and test your object detection algorithm follow the below steps:
   4. Run Train_yolo.py file
 
 ### Inference
-![License Plate Blur](https://github.com/rgvananth/License_Plate_Detection/tree/master/Data/results/27_license_plate.jpg)
 
-![License Plate Blur](https://github.com/rgvananth/License_Plate_Detection/tree/master/Data/results/97_license_plate.jpg)
+![27_license_plate](https://user-images.githubusercontent.com/46603188/79003470-aecc0e80-7b20-11ea-998b-12c123d3540b.jpg)
+![97_license_plate](https://user-images.githubusercontent.com/46603188/79003477-b25f9580-7b20-11ea-9762-85ee8489b80a.jpg)
